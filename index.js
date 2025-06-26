@@ -1,3 +1,5 @@
+// alın ammk hızlandırdım üstüne 5 saniye bekleyin calısır console.lgoları sildi
+
 import WebSocket from 'ws';
 import tls from 'tls';
 import axios from 'axios';

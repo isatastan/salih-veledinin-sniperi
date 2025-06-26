@@ -1,2 +1,2 @@
-# salih-veledinin-sniperi
-en fasti bizizya knkkkkkk
+la orospu evladı seni benim geliştirdiğim kodlarla flex atmaya devam et atillapromusun nesin anasını siktimin veledi seni main kod main kod diye gezinen veletlersiniz size ilk sniperinizi ben attım cebinize harclıgınızı koydum büyüttüm besledim şimdi üstüme cıkmayı deniyonuz kac kere vs gel dedim gelmedin korktun galiba eskiden cok siktim travmaların var her neyse kodu temiz atıyorum bu salak için birinin tokenini falan calmicam arkamdan laf yapmaya devam etmesin sonra :D
+#freeatillapro
